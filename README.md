@@ -42,7 +42,7 @@ width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/47661086/89108986-e0b00a80-d45a-11ea-9570-8c5f7e4c9e6b.jpeg" 
 width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/47661086/89108989-e3aafb00-d45a-11ea-9ca1-cd22b767edd1.jpeg" 
-width="300" height="500" />
+width="200" height="400" />
 </p>
 
 ## App Demo.
